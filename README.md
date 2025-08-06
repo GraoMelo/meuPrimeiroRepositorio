@@ -5,5 +5,7 @@
 
 2) irei criar uma nova branch
 
+3) configurar git no powsershell
+
 
 repositorio teste github add more info
