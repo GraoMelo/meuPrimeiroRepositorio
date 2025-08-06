@@ -7,5 +7,6 @@
 
 3) configurar git no powsershell
 
+4) conectar git local ao github
 
 repositorio teste github add more info
